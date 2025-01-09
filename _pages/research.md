@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Research Interests</h2>
-Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematics
+Optimal insurance/reinsurance design, Risk measures, Model Uncertainty
 
 <h2>Publications and Manuscripts</h2>
 
@@ -14,6 +14,10 @@ Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematic
 *  Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2023). A reverse ES (CVaR) optimization formula. [<i>North American Actuarial Journal</i>](https://doi.org/10.1080/10920277.2023.2249524) <b>28</b>(3), 611-625.
 * Cai, J., <b>Jiao, Z.</b> and Mao, T. (2023). Worst-case target semi-variances with applications to robust portfolio selection. Submitted to *European Journal of Operational Research* (under review) [[arXiv]](https://arxiv.org/abs/2410.01732).
 * <b>Jiao, Z.</b>, Kou, S., Liu, Y. and Wang, R. (2022). An axiomatic theory for anonymized risk sharing. Submitted to *Journal of Political Economy* (under review) [[arXiv]](https://arxiv.org/abs/2208.07533).
+
+* Landriault, D., <b>Liu, F., </b> and Shi, Z. (2024). Worst-Case Reinsurance Strategy with Likelihood Ratio Uncertainty. Accepted by ASTIN Bulletin. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750381)
+* Landriault, D., <b>Liu, F., </b> and Shi, Z. (2024). Performance-based variable premium scheme and reinsurance design. Submitted to *Insurance: Mathematics and Economics* (under review) [arXiv] (https://arxiv.org/abs/2412.01704)
+
   
  <!--  <i>North American Actuarial Journal</i>, <b>28</b>(3), 611-625. [[NAAJ]](https://doi.org/10.1080/10920277.2023.2249524), [[arXiv]](https://arxiv.org/abs/2203.02599) -->
   <!--  <b>Jiao, Z.</b> (2019). Optimal mutual risking sharing arrangement with moral hazard. <i>Graduate Dissertation</i> - Advisor: Ming Zhou. -->
