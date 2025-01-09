@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research | Ziyue Shi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Research</h1>
+        <p>Explore my research contributions and publications.</p>
+    </header>
+    <main>
+        <section class="research-list">
+            <article>
+                <h2>Worst-Case Reinsurance Strategy with Likelihood Ratio Uncertainty</h2>
+                <p><strong>Authors:</strong> David Landriault, Fangda Liu, Ziyue Shi</p>
+                <p><strong>Publication:</strong> ASTIN Bulletin, 2024</p>
+                <p><strong>Summary:</strong> This paper explores worst-case scenarios in reinsurance design under model uncertainty.</p>
+                <a href="https://example.com/publication1" target="_blank">Read more</a>
+            </article>
+            <article>
+                <h2>Performance-based Variable Premium Scheme and Reinsurance Design</h2>
+                <p><strong>Authors:</strong> David Landriault, Fangda Liu, Ziyue Shi</p>
+                <p><strong>Publication:</strong> Submitted to Insurance: Mathematics and Economics</p>
+                <p><strong>Summary:</strong> Investigates premium design strategies tied to performance-based metrics.</p>
+                <a href="https://example.com/publication2" target="_blank">Read more</a>
+            </article>
+            <!-- Add more articles here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Ziyue Shi</p>
+    </footer>
+</body>
+</html>
