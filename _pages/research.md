@@ -8,29 +8,29 @@ author_profile: true
 <h2>Research Interests</h2>
 Optimal insurance/reinsurance design, Risk measures, Model Uncertainty
 
-<h2>Publications and Manuscripts</h2>
+<h2>Publications</h2>
 
-* Fan, Y., <b>Jiao, Z.</b> and Wang, R. (2024). Testing mean and variance by e-processes. Accepted by [<i>Biometrika</i>](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae049/7796539), forthcoming.
-*  Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2023). A reverse ES (CVaR) optimization formula. [<i>North American Actuarial Journal</i>](https://doi.org/10.1080/10920277.2023.2249524) <b>28</b>(3), 611-625.
-* Cai, J., <b>Jiao, Z.</b> and Mao, T. (2023). Worst-case target semi-variances with applications to robust portfolio selection. Submitted to *European Journal of Operational Research* (under review) [[arXiv]](https://arxiv.org/abs/2410.01732).
-* <b>Jiao, Z.</b>, Kou, S., Liu, Y. and Wang, R. (2022). An axiomatic theory for anonymized risk sharing. Submitted to *Journal of Political Economy* (under review) [[arXiv]](https://arxiv.org/abs/2208.07533).
-
-* Landriault, D., <b>Liu, F., </b> and Shi, Z. (2024). Worst-Case Reinsurance Strategy with Likelihood Ratio Uncertainty. Accepted by ASTIN Bulletin. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750381)
-* Landriault, D., <b>Liu, F., </b> and Shi, Z. (2024). Performance-based variable premium scheme and reinsurance design. Submitted to *Insurance: Mathematics and Economics* (under review) [arXiv] (https://arxiv.org/abs/2412.01704)
+* Landriault, D., Liu, F., and <b> Shi, Z. </b> (2024). Worst-case reinsurance strategy with likelihood ratio uncertainty. Accepted by *ASTIN Bulletin*. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750381)
+* Landriault, D., Liu, F., and <b> Shi, Z. </b> (2024). Performance-based variable premium scheme and reinsurance design. Submitted to *Insurance: Mathematics and Economics* (under review). [[arXiv]](https://arxiv.org/abs/2412.01704)
 
   
- <!--  <i>North American Actuarial Journal</i>, <b>28</b>(3), 611-625. [[NAAJ]](https://doi.org/10.1080/10920277.2023.2249524), [[arXiv]](https://arxiv.org/abs/2203.02599) -->
-  <!--  <b>Jiao, Z.</b> (2019). Optimal mutual risking sharing arrangement with moral hazard. <i>Graduate Dissertation</i> - Advisor: Ming Zhou. -->
-
 <h2>Academic Presentations</h2>
 
-* The 26th International Congress on Insurance: Mathematics and Economics - Edinburgh, U.K. (2023)
-  * Title: <i>"Worst-case upper partial moment risk measures with application to robust portfolio selection"</i>  [[Slides]](http://zhanyij.github.io/files/26th_ime.pdf)
-* Waterloo Student Conference in Statistics, Actuarial Science and Finance - Waterloo, Canada (2022)
-  * Title: <i>"An axiomatic theory for anonymized risk sharing"</i>  [[Slides]](http://zhanyij.github.io/files/uw.pdf)
-* 57th Actuarial Research Conference - Urbana-Champaign, U.S. (2022)
-  * Title: <i>"A reverse Expected Shortfall optimization formula"</i>  [[Slides]](http://zhanyij.github.io/files/57th_arc.pdf)
-* The 25th International Congress on Insurance: Mathematics and Economics - Guangzhou, China (Online) (2022)
-  * Title: <i>"A reverse Expected Shortfall optimization formula"</i>  [[Slides]](http://zhanyij.github.io/files/25th_ime.pdf)
-* The 23rd International Congress on Insurance: Mathematics and Economics - Munich, Germany (2019)
-  * Title: <i>"Optimal retention rate in risk pooling arrangement with moral hazard"</i>
+* The 27th International Congress on Insurance: Mathematics and Economics, Chicago, United States, Jul 8-11, 2024
+  * Title: <i>"Worst-case Reinsurance Strategy with Likelihood Ratio Uncertainty"</i>
+  
+* The 27th International Congress on Insurance: Mathematics and Economics, Chicago, United States, Jul 8-11, 2024
+  * Title: <i>"Insurance Design under a Performance-based Premium Scheme"</i>
+
+* International Conference on Insurance and Actuarial Science, Tianjin, China, Jun 15-16, 2024
+    * Title: <i>"Worst-case Reinsurance Strategy with Likelihood Ratio Uncertainty"</i>
+    
+* Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, Canada, Oct 27-26, 2023
+  * Title: <i>"Worst-case Reinsurance Strategy with Likelihood Ratio Uncertainty"</i>
+
+<h2>Invited Talks</h2>
+* School of Mathematical Sciences, Nankai University, Tianjin, China, May 30, 2024
+
+
+
+
