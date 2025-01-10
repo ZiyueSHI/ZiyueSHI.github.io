@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-You can download a PDF copy of my academic CV [here]((http://ZiyueSHI.github.io/files/ZiyueSHI_Resume_Academia.pdf))
+You can download a PDF copy of my academic CV [here](http://ZiyueSHI.github.io/files/ZiyueSHI_Resume_Academia.pdf).
